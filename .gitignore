@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.*
+.DS_Store
+*.log
+*.pdf
+dist/
+build
+.vite/
+.git
+.vscode/
+eslint.config.js
